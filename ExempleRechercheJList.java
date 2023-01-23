@@ -1,8 +1,8 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import javax.swing.event.*;
-import java.util.*;
+
+
 public class ExempleRechercheJList extends JFrame implements ActionListener {
 	
 	JList liste;
